@@ -137,7 +137,9 @@ animation: animate 5s infinite ease-in-out;
 
 }
 
-
+.body{
+font-size:2em;
+}
 .cards {
   width: 180px;
   height: 180px;
@@ -148,6 +150,7 @@ animation: animate 5s infinite ease-in-out;
   margin: 10px 15px;
   background-color: inherit;
   border: 2px solid #3882f6;
+
 }
 
 .card1 {
