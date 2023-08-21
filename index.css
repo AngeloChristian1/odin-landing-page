@@ -118,14 +118,14 @@ cursor:pointer;
 .row img{
 filter: drop-shadow(10px 3px 6px #3882f6);
 height:130%;
-width:80%;
+width:70%;
 margin-top:-30px;
 
-animation: animat 5s infinite ease-in-out;
+animation: animate 5s infinite ease-in-out;
 }
 @keyframes animate{
   0% {
-    transform: translateY(0);
+    transform: translate(0);
   }
   50% {
     transform: translateY(-10px) translateX(1.5%)
